@@ -1,7 +1,7 @@
 import pygame, sys
 from paddle import Paddle
 from labda import Labda
-import gyak 
+import handtrack 
 pygame.init()
 
 fekete = (0,0,0)
